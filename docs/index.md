@@ -6,7 +6,7 @@ hero:
   name: "蘑菇Emby_Wiki"
   text: "Wiki"
   tagline: 你的看片神器
-  image: assets/logo.png
+  image: logo.png
   actions:
     - theme: brand
       text: 如何使用
