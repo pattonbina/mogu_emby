@@ -1,2 +1,9 @@
 node_modules/@esbuild/win32-x64/esbuild.exe
 node_modules/@rollup/rollup-win32-x64-msvc/rollup.win32-x64-msvc.node
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# End of https://www.toptal.com/developers/gitignore/api/vuejs
